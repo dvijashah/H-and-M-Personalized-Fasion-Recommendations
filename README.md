@@ -1,1 +1,1 @@
-# H-and-M-Personalized-Fasion-Recommendations
+# H-and-M-Personalized-Fashion-Recommendations
